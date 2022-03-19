@@ -1,0 +1,15 @@
+img{
+  height: 100px;
+  width: 100px;
+
+}
+p{ 
+  font-size: medium;
+  font-family: 'Courier New', Courier, monospace;
+  color: blue;
+}
+h1{
+  color:blue;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: medium;
+}
